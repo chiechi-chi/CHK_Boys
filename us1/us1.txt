@@ -1,2 +1,3 @@
 Lau Chieu Chi
 0306201416
+thêm nội dung u01_02 vào tập tin us01.txt
