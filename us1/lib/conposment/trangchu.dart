@@ -265,7 +265,7 @@ class _homeState extends State<home> {
                       ),
                     );
                   }),
-                  icon: Icon(Icons.shop_two)),
+                 /* icon: Icon(Icons.shop_two)),
               IconButton(onPressed: (() {}), icon: Icon(Icons.shield)),
               IconButton(
                   onPressed: (() {
@@ -274,7 +274,7 @@ class _homeState extends State<home> {
                       MaterialPageRoute(
                         builder: (context) => setting(),
                       ),
-                    );
+                    );*/
                   }),
                   icon: Icon(Icons.settings)),
             ],
