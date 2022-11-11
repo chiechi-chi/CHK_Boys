@@ -111,14 +111,15 @@ class _ChoiDon extends State<ChoiDon> {
                         Padding(
                           padding: const EdgeInsets.all(8.0),
                           child: ElevatedButton(
-                              onPressed: () {},
-                              child: Text(
-                                'Sẵn sàng',
-                                style: TextStyle(
-                                    color: Colors.white,
-                                    fontSize: 15,
-                                    fontWeight: FontWeight.bold),
-                              )),
+                            onPressed: () {},
+                            child: Text(
+                              'Sẵn sàng',
+                              style: TextStyle(
+                                  color: Colors.white,
+                                  fontSize: 15,
+                                  fontWeight: FontWeight.bold),
+                            ),
+                          ),
                         ),
                       ],
                     ),
