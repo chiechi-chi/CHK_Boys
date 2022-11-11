@@ -18,7 +18,7 @@ class _infor extends State<infor> {
         decoration: BoxDecoration(
           color: Color(0xff152B42),
         ),
-        child: Row(
+        child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Padding(padding: EdgeInsets.fromLTRB(0, 50, 0, 0)),
