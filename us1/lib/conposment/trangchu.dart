@@ -16,7 +16,7 @@ class home extends StatefulWidget {
 class _homeState extends State<home> {
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
+    return Container(
       body: Container(
         padding: EdgeInsets.fromLTRB(0, 50, 0, 0),
         color: Color.fromARGB(255, 2, 10, 56),

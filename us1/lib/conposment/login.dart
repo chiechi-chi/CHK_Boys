@@ -93,7 +93,7 @@ class _loginState extends State<login> {
                       },
                       child: Text('Đăng nhập')),
                 ),
-               /* Container(
+                Container(
                   padding: EdgeInsets.fromLTRB(0, 15, 0, 0),
                   child: TextButton(
                       style: ButtonStyle(
@@ -107,7 +107,7 @@ class _loginState extends State<login> {
                           ),
                         );
                       },
-                      child: Text('Đăng kí tài khoản')),*/
+                      child: Text('Đăng kí tài khoản')),
                 ),
               ]),
             ),
