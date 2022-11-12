@@ -10,7 +10,7 @@ class ChoiDon extends StatefulWidget {
 class _ChoiDon extends State<ChoiDon> {
   @override
   Widget build(BuildContext context) {
-    return Container(
+    return Scaffold(
       body: Container(
         width: MediaQuery.of(context).size.width,
         height: MediaQuery.of(context).size.height,
@@ -108,7 +108,7 @@ class _ChoiDon extends State<ChoiDon> {
                                     fontWeight: FontWeight.bold),
                               )),
                         ),
-                        Padding(
+                       /* Padding(
                           padding: const EdgeInsets.all(8.0),
                           child: ElevatedButton(
                             onPressed: () {},
@@ -119,7 +119,7 @@ class _ChoiDon extends State<ChoiDon> {
                                   fontSize: 15,
                                   fontWeight: FontWeight.bold),
                             ),
-                          ),
+                          ),*/
                         ),
                       ],
                     ),
