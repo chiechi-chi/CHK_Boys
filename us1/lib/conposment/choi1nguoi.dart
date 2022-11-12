@@ -10,7 +10,7 @@ class ChoiDon extends StatefulWidget {
 class _ChoiDon extends State<ChoiDon> {
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
+    return Container(
       body: Container(
         width: MediaQuery.of(context).size.width,
         height: MediaQuery.of(context).size.height,
