@@ -24,7 +24,7 @@ class _reset extends State<reset> {
             style: TextStyle(color: Colors.white, fontSize: 20),
           ),
           Padding(padding: EdgeInsets.all(20)),
-          Row(
+          Column(
             children: [
               const Text(
                 'Email: ',
